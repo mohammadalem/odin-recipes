@@ -1,0 +1,19 @@
+ul,ol{
+color: rgb(0, 0, 0);
+font-family:Arial;
+
+}
+h1{
+    font-family: Trebuchet ;
+    font-weight: 800;
+}
+body{
+    margin: auto;
+    padding: 5px;
+}
+ol{
+list-style: upper-roman;
+}
+ul{
+    list-style: circle;
+}
